@@ -1,0 +1,523 @@
+con mèo là động vật.
+mèo là thú cưng.
+mèo có lông mềm.
+mèo có thể kêu.
+mèo ăn cá.
+mèo ăn thịt.
+mèo uống sữa.
+mèo tam thể có ba màu.
+mèo tam thể thường là mèo cái.
+mèo hoang sống ngoài đường.
+mèo nhà sống trong nhà.
+con chó là động vật.
+chó là thú cưng.
+chó có lông.
+chó có thể sủa.
+chó ăn thịt.
+chó ăn xương.
+chó trung thành với chủ.
+chó thông minh.
+chó có thể chạy nhanh.
+con chim là động vật.
+chim có thể bay.
+chim có lông vũ.
+chim ăn hạt.
+chim ăn sâu.
+chim có mỏ.
+chim làm tổ trên cây.
+con cá là động vật.
+cá sống dưới nước.
+cá có vảy.
+cá có vây.
+cá thở bằng mang.
+cá ăn rong biển.
+cá ăn tảo.
+con hổ là động vật hoang dã.
+hổ là mèo lớn.
+hổ có줄무늬 vằn.
+hổ ăn thịt.
+hổ sống trong rừng.
+hổ nguy hiểm.
+con sư tử là động vật hoang dã.
+sư tử sống ở châu Phi.
+sư tử ăn thịt.
+sư tử là chúa tể đồng cỏ.
+con voi là động vật lớn.
+voi có vòi dài.
+voi ăn cỏ.
+voi ăn lá cây.
+voi sống ở châu Á và châu Phi.
+voi thông minh.
+con thỏ là động vật.
+thỏ có tai dài.
+thỏ ăn cà rốt.
+thỏ ăn rau.
+thỏ chạy nhanh.
+thỏ là thú cưng.
+con rắn là bò sát.
+rắn không có chân.
+rắn bò trên mặt đất.
+một số rắn có nọc độc.
+rắn ăn chuột.
+rắn ăn ếch.
+con cá sấu là bò sát.
+cá sấu sống gần nước.
+cá sấu nguy hiểm.
+cá sấu ăn thịt.
+con khỉ là động vật.
+khỉ sống trên cây.
+khỉ ăn chuối.
+khỉ ăn hoa quả.
+khỉ thông minh.
+Hà Nội là thủ đô của Việt Nam.
+Hà Nội là thành phố lớn.
+Hà Nội có nhiều hồ đẹp.
+Hồ Tây là hồ lớn nhất Hà Nội.
+Hồ Hoàn Kiếm nằm ở trung tâm Hà Nội.
+Hà Nội có nhiều di tích lịch sử.
+Văn Miếu nằm ở Hà Nội.
+thành phố Hồ Chí Minh là thành phố lớn nhất Việt Nam.
+thành phố Hồ Chí Minh là trung tâm kinh tế.
+Đà Nẵng là thành phố biển.
+Đà Nẵng có bãi biển đẹp.
+Huế là cố đô của Việt Nam.
+Huế có nhiều di tích lịch sử.
+Hội An là phố cổ nổi tiếng.
+Việt Nam là đất nước ở Đông Nam Á.
+Việt Nam có biển dài.
+Việt Nam có nhiều núi.
+Sông Hồng chảy qua Hà Nội.
+Sông Mekong chảy qua miền Nam.
+nước là chất lỏng.
+nước trong suốt.
+nước không màu.
+nước sôi ở 100 độ C.
+nước đông đặc ở 0 độ C.
+cây là thực vật.
+cây cần nước để sống.
+cây cần ánh sáng mặt trời.
+cây hấp thụ khí CO2.
+cây thải ra oxy.
+hoa hồng là loài hoa đẹp.
+hoa hồng có gai.
+hoa hồng có màu đỏ.
+hoa hồng có hương thơm.
+hoa sen là hoa quốc gia của Việt Nam.
+hoa sen mọc dưới nước.
+hoa sen có màu hồng và trắng.
+quả táo có màu đỏ hoặc xanh.
+táo ngọt và chua.
+táo tốt cho sức khỏe.
+quả chuối có màu vàng.
+chuối ngọt.
+chuối giàu kali.
+quả cam có màu cam.
+cam có nhiều vitamin C.
+cam chua ngọt.
+cơm là thức ăn chính của người Việt.
+cơm được nấu từ gạo.
+phở là món ăn nổi tiếng của Việt Nam.
+phở có nước dùng và bánh phở.
+bánh mì là thức ăn phổ biến.
+rau muống là rau phổ biến ở Việt Nam.
+rau muống xào tỏi rất ngon.
+cá kho là món ăn truyền thống.
+thịt heo được dùng nhiều trong ẩm thực Việt.
+mặt trời là ngôi sao gần Trái Đất nhất.
+mặt trời tỏa sáng và nhiệt.
+Trái Đất quay quanh mặt trời.
+mặt trăng quay quanh Trái Đất.
+mặt trăng phản chiếu ánh sáng mặt trời.
+ngôi sao là quả cầu khí nóng.
+bầu trời có màu xanh ban ngày.
+bầu trời có màu đen ban đêm.
+mây được tạo từ hơi nước.
+mưa rơi từ mây xuống.
+tuyết là nước đóng băng.
+gió là không khí chuyển động.
+sấm sét xảy ra trong bão.
+mùa xuân ấm áp.
+mùa hè nóng.
+mùa thu mát mẻ.
+mùa đông lạnh.
+con người là động vật có vú.
+con người thông minh.
+con người sống thành xã hội.
+con người cần ăn uống để sống.
+con người cần ngủ.
+con người cần không khí để thở.
+trẻ em cần được yêu thương.
+gia đình quan trọng với mỗi người.
+bạn bè là người quan trọng trong cuộc sống.
+sức khỏe là quý giá nhất.
+giáo dục giúp con người phát triển.
+trường học là nơi học tập.
+thầy cô giáo dạy học sinh.
+sách là nguồn kiến thức.
+đọc sách giúp mở mang trí tuệ.
+máy tính là công cụ hiện đại.
+điện thoại giúp liên lạc.
+internet kết nối mọi người.
+xe máy là phương tiện phổ biến ở Việt Nam.
+xe hơi nhanh hơn xe đạp.
+xe đạp thân thiện với môi trường.
+máy bay bay trên bầu trời.
+tàu hỏa chạy trên đường ray.
+tàu thủy đi trên biển.
+nhà là nơi ở của con người.
+nhà có tường và mái.
+cửa sổ cho ánh sáng vào nhà.
+phòng ngủ là nơi nghỉ ngơi.
+nhà bếp là nơi nấu ăn.
+bệnh viện là nơi chữa bệnh.
+bác sĩ chữa bệnh cho bệnh nhân.
+y tá chăm sóc bệnh nhân.
+thuốc giúp chữa bệnh.
+sốt là triệu chứng của nhiều bệnh.
+ho là triệu chứng của bệnh đường hô hấp.
+tiền là phương tiện trao đổi.
+ngân hàng là nơi lưu trữ tiền.
+ngân hàng máu lưu trữ máu.
+chợ là nơi mua bán hàng hóa.
+siêu thị bán nhiều loại hàng hóa.
+màu đỏ là màu nóng.
+màu xanh là màu lạnh.
+màu trắng là màu sáng.
+màu đen là màu tối.
+âm nhạc làm con người vui vẻ.
+hội họa là nghệ thuật thị giác.
+thể thao tốt cho sức khỏe.
+bóng đá là môn thể thao phổ biến.
+bơi lội tốt cho cơ thể.
+chạy bộ giúp tăng cường sức khỏe.
+núi cao hơn đồi.
+sông lớn hơn suối.
+biển rộng hơn hồ.
+sa mạc rất nóng và khô.
+rừng nhiệt đới có nhiều loài động thực vật.
+con mèo kêu meo meo.
+con chó sủa gâu gâu.
+con bò kêu moo.
+con gà kêu cục tác.
+con vịt kêu quạc quạc.
+lửa nóng và sáng.
+nước dập tắt lửa.
+gỗ là nguyên liệu từ cây.
+đá cứng hơn gỗ.
+sắt là kim loại cứng.
+vàng là kim loại quý.
+muối có vị mặn.
+đường có vị ngọt.
+chanh có vị chua.
+ớt có vị cay.
+cà phê có vị đắng.
+trà xanh tốt cho sức khỏe.
+sữa giàu canxi.
+trứng giàu protein.
+thịt gà ít chất béo hơn thịt heo.
+cà chua vừa là rau vừa là quả.
+khoai tây giàu tinh bột.
+hành tây làm cay mắt khi cắt.
+tỏi có mùi hăng.
+gừng có vị cay ấm.
+quế có hương thơm ngọt.
+mật ong rất ngọt và tốt cho sức khỏe.
+dầu ô liu tốt cho tim mạch.
+rượu có cồn.
+bia là đồ uống có cồn nhẹ.
+nước ép trái cây tốt cho sức khỏe.
+sinh tố giàu vitamin.
+đông lạnh bảo quản thức ăn.
+tủ lạnh giữ thức ăn tươi lâu hơn.
+lò vi sóng hâm nóng thức ăn nhanh.
+nồi cơm điện nấu cơm tự động.
+máy giặt giặt quần áo.
+bàn là là phẳng quần áo.
+điều hòa làm mát phòng.
+quạt điện thổi gió.
+bóng đèn chiếu sáng.
+pin lưu trữ điện năng.
+mặt trời là nguồn năng lượng tái tạo.
+gió là nguồn năng lượng sạch.
+than đá là nhiên liệu hóa thạch.
+dầu mỏ là tài nguyên thiên nhiên quan trọng.
+khí thiên nhiên được dùng để nấu ăn.
+ô nhiễm không khí gây hại cho sức khỏe.
+rác thải cần được xử lý đúng cách.
+tái chế giúp bảo vệ môi trường.
+trồng cây giúp giảm ô nhiễm.
+biến đổi khí hậu là vấn đề toàn cầu.
+nước biển dâng do biến đổi khí hậu.
+động đất xảy ra do các mảng kiến tạo di chuyển.
+núi lửa phun trào dung nham.
+lũ lụt xảy ra khi mưa quá nhiều.
+hạn hán xảy ra khi thiếu mưa.
+số một là số tự nhiên đầu tiên.
+số không là số đặc biệt.
+phép cộng kết hợp hai số.
+phép nhân là cộng nhiều lần.
+hình vuông có bốn cạnh bằng nhau.
+hình tròn không có góc.
+tam giác có ba cạnh.
+diện tích hình vuông bằng cạnh nhân cạnh.
+chu vi hình tròn bằng hai lần pi nhân bán kính.
+vật lý nghiên cứu về các quy luật tự nhiên.
+hóa học nghiên cứu về các chất và phản ứng.
+sinh học nghiên cứu về sự sống.
+ngôn ngữ là công cụ giao tiếp.
+tiếng Việt là ngôn ngữ chính thức của Việt Nam.
+tiếng Anh là ngôn ngữ quốc tế.
+chữ viết ghi lại ngôn ngữ.
+từ điển giải thích nghĩa của từ.
+ngữ pháp quy định cách dùng từ trong câu.
+câu hỏi kết thúc bằng dấu chấm hỏi.
+câu cảm thán kết thúc bằng dấu chấm than.
+thơ có vần điệu.
+truyện kể về sự kiện và nhân vật.
+lịch sử ghi chép những gì đã xảy ra.
+địa lý nghiên cứu về Trái Đất và con người.
+kinh tế nghiên cứu về sản xuất và tiêu dùng.
+chính trị liên quan đến quyền lực và quản lý.
+triết học đặt câu hỏi về bản chất của thực tại.
+tôn giáo giải đáp câu hỏi về ý nghĩa cuộc sống.
+nghệ thuật thể hiện cảm xúc và ý tưởng.
+khoa học tìm kiếm sự thật qua thực nghiệm.
+công nghệ áp dụng khoa học vào thực tiễn.
+y học nghiên cứu về sức khỏe con người.
+nông nghiệp trồng trọt và chăn nuôi.
+công nghiệp sản xuất hàng hóa quy mô lớn.
+dịch vụ cung cấp tiện ích cho con người.
+thương mại buôn bán hàng hóa.
+du lịch khám phá những nơi mới.
+văn hóa là tổng thể giá trị và tập quán của một cộng đồng.
+phong tục là những tập quán lâu đời.
+lễ hội là dịp vui mừng và kỷ niệm.
+tết Nguyên Đán là lễ hội lớn nhất của Việt Nam.
+trung thu là tết thiếu nhi ở Việt Nam.
+lễ giỗ tổ Hùng Vương là ngày lễ quốc gia.
+áo dài là trang phục truyền thống của Việt Nam.
+nón lá là biểu tượng văn hóa Việt Nam.
+trống đồng là hiện vật lịch sử quý giá.
+rồng là biểu tượng quyền lực trong văn hóa châu Á.
+phượng hoàng tượng trưng cho vẻ đẹp và phẩm hạnh.
+hoa đào nở vào mùa xuân ở miền Bắc.
+hoa mai nở vào mùa xuân ở miền Nam.
+tre là loài cây biểu trưng của Việt Nam.
+lúa là cây trồng chính ở Việt Nam.
+cà phê Việt Nam nổi tiếng thế giới.
+cao su là nguyên liệu quan trọng.
+than đá khai thác ở Quảng Ninh.
+dầu mỏ khai thác ở thềm lục địa.
+biển Đông quan trọng với Việt Nam.
+vịnh Hạ Long là di sản thế giới.
+phố cổ Hội An là di sản thế giới.
+cố đô Huế là di sản thế giới.
+mèo rất dễ thương.
+chó rất trung thành.
+thỏ rất đáng yêu.
+gấu bông là đồ chơi dễ thương.
+trẻ em thích đồ chơi.
+trẻ em thích chơi.
+trẻ em cần được học.
+học sinh học ở trường.
+sinh viên học ở đại học.
+giáo viên dạy học.
+bác sĩ khám bệnh.
+kỹ sư thiết kế và xây dựng.
+lập trình viên viết code.
+nhà văn viết sách.
+nhạc sĩ sáng tác âm nhạc.
+họa sĩ vẽ tranh.
+kiến trúc sư thiết kế nhà.
+phi công lái máy bay.
+thủy thủ lái tàu.
+nông dân trồng lúa và rau.
+ngư dân đánh cá.
+công nhân làm việc trong nhà máy.
+thương nhân buôn bán.
+luật sư bảo vệ quyền lợi của thân chủ.
+thẩm phán xét xử vụ án.
+cảnh sát bảo vệ an ninh.
+lính cứu hỏa dập tắt đám cháy.
+quân nhân bảo vệ đất nước.
+chính trị gia tham gia quản lý nhà nước.
+nhà khoa học nghiên cứu và khám phá.
+nhà toán học giải các bài toán.
+nhà vật lý nghiên cứu về vật chất và năng lượng.
+nhà hóa học nghiên cứu về các chất.
+nhà sinh học nghiên cứu về sự sống.
+nhà sử học nghiên cứu lịch sử.
+nhà địa lý nghiên cứu về Trái Đất.
+nhà kinh tế nghiên cứu về kinh tế.
+nhà triết học suy ngẫm về cuộc sống.
+nhà tâm lý học nghiên cứu về tâm lý con người.
+mèo thích ngủ nhiều.
+mèo thích leo trèo.
+mèo sợ nước.
+mèo có thể nhìn trong bóng tối.
+mèo có móng vuốt sắc.
+mèo dùng lưỡi để tự vệ sinh.
+chó thích chạy nhảy.
+chó thích được vuốt ve.
+chó có thể học nhiều mệnh lệnh.
+chó dẫn đường cho người khiếm thị.
+chó nghiệp vụ giúp cảnh sát.
+cá vàng là loài cá cảnh phổ biến.
+cá koi là loài cá cảnh đắt tiền.
+vẹt có thể bắt chước tiếng người.
+hamster là thú cưng nhỏ dễ nuôi.
+rùa sống rất lâu.
+con người đã thuần hóa chó từ rất lâu đời.
+mèo đã được thờ phụng ở Ai Cập cổ đại.
+ngựa được dùng để di chuyển trước khi có xe hơi.
+bò được nuôi để lấy sữa và thịt.
+gà được nuôi để lấy trứng và thịt.
+vịt được nuôi ở nhiều vùng quê Việt Nam.
+lợn là động vật nuôi phổ biến.
+dê được nuôi ở vùng núi.
+cừu được nuôi ở vùng ôn đới.
+lạc đà sống được ở sa mạc vì có bướu chứa mỡ.
+ngựa vằn có줄무늬 đen trắng.
+hươu cao cổ có cổ rất dài.
+tê giác có sừng.
+hà mã sống gần nước.
+gấu trúc ăn tre.
+gấu trúc là biểu tượng của Trung Quốc.
+đại bàng là loài chim săn mồi.
+cú có thể nhìn trong đêm tối.
+cánh cụt không thể bay.
+cánh cụt sống ở vùng cực.
+cá heo thông minh.
+cá voi là động vật có vú lớn nhất.
+mực có thể phun mực để tự vệ.
+bạch tuộc có tám xúc tu.
+tôm hùm có giá đắt.
+cua có mai cứng.
+ốc sên di chuyển chậm.
+bướm có cánh đẹp.
+ong mật tạo ra mật ong.
+kiến sống thành đàn.
+gián là loài côn trùng dai sức sống.
+muỗi truyền bệnh sốt rét.
+ruồi mang vi khuẩn.
+châu chấu phá hoại mùa màng.
+ve sầu kêu vào mùa hè.
+con sâu biến thành bướm.
+nhện giăng tơ để bắt mồi.
+bọ cạp có nọc độc.
+rết có nhiều chân.
+giun đất sống trong đất.
+ếch kêu vào mùa mưa.
+nhái nhỏ hơn ếch.
+kỳ nhông có thể thay đổi màu sắc.
+thằn lằn là bò sát nhỏ.
+con rùa có mai bảo vệ.
+con trăn là loài rắn lớn không độc.
+cá mập là loài cá nguy hiểm.
+cá đuối có đuôi độc.
+bạch tuộc có thể thay đổi màu sắc.
+san hô là sinh vật biển.
+sứa trôi theo dòng nước.
+cây xương rồng sống được ở nơi khô hạn.
+hoa hướng dương luôn hướng về phía mặt trời.
+cây dừa mọc ở vùng nhiệt đới.
+cây thông mọc ở vùng lạnh.
+cây bàng thay lá vào mùa đông.
+cây đa có rễ phụ to lớn.
+cây tre mọc thành bụi.
+cây lúa trồng ở ruộng ngập nước.
+cây ngô trồng ở ruộng khô.
+cây khoai lang leo.
+cây bí đỏ cho quả to.
+cây mướp cho quả dài.
+cây chuối cho quả thành nải.
+cây xoài cho quả ngọt.
+cây nhãn cho quả thơm.
+cây vải cho quả đỏ.
+cây bưởi cho quả to.
+cây quýt cho quả nhỏ hơn bưởi.
+cây hồng cho quả màu cam.
+cây mận cho quả tím.
+cây đào cho quả hồng.
+cây lê cho quả vàng.
+cây táo cho quả đỏ hoặc xanh.
+cây nho cho quả thành chùm.
+cây dâu tây cho quả đỏ nhỏ.
+cây dứa cho quả có gai.
+cây ổi cho quả xanh hoặc đỏ.
+cây sung cho quả nhỏ.
+cây mít cho quả to nhất trong các loài cây ăn quả.
+sầu riêng có mùi đặc trưng mạnh.
+măng cụt ngọt và ngon.
+chôm chôm có lông bao quanh.
+thanh long có màu đỏ tươi.
+dừa có nước ngọt bên trong.
+đu đủ chín có màu vàng cam.
+mãng cầu có hạt đen bên trong.
+khế có vị chua.
+me chua và ngọt.
+trái tim là cơ quan bơm máu.
+phổi là cơ quan hô hấp.
+dạ dày tiêu hóa thức ăn.
+gan lọc độc tố trong máu.
+thận lọc máu và tạo nước tiểu.
+não điều khiển mọi hoạt động cơ thể.
+xương tạo nên bộ khung cơ thể.
+cơ bắp giúp cơ thể chuyển động.
+da bảo vệ cơ thể.
+mắt giúp nhìn thấy.
+tai giúp nghe.
+mũi giúp ngửi mùi.
+lưỡi giúp nếm vị.
+tay dùng để cầm nắm.
+chân dùng để đi lại.
+tóc mọc trên đầu.
+móng tay bảo vệ đầu ngón tay.
+răng giúp nhai thức ăn.
+lưỡi giúp nói chuyện.
+giọng nói mỗi người khác nhau.
+vân tay mỗi người là duy nhất.
+nhóm máu có bốn loại A B AB O.
+DNA chứa thông tin di truyền.
+tế bào là đơn vị cơ bản của sự sống.
+virus nhỏ hơn vi khuẩn.
+vi khuẩn có ở khắp nơi.
+vaccine giúp cơ thể chống lại bệnh.
+kháng sinh diệt vi khuẩn.
+vitamin C tăng cường miễn dịch.
+canxi giúp xương chắc khỏe.
+sắt giúp tạo máu.
+ánh sáng mặt trời giúp cơ thể tổng hợp vitamin D.
+vận động thường xuyên giúp tim khỏe.
+ngủ đủ giấc giúp cơ thể phục hồi.
+stress ảnh hưởng xấu đến sức khỏe.
+thiền định giúp giảm stress.
+yoga tốt cho cả thể chất và tinh thần.
+ăn nhiều rau xanh tốt cho sức khỏe.
+hạn chế đường và muối tốt cho sức khỏe.
+uống đủ nước mỗi ngày quan trọng với sức khỏe.
+hút thuốc có hại cho phổi.
+rượu bia có hại nếu dùng quá nhiều.
+tập thể dục giúp duy trì cân nặng.
+béo phì gây nhiều bệnh nguy hiểm.
+tiểu đường liên quan đến lượng đường trong máu.
+cao huyết áp là bệnh phổ biến.
+ung thư là bệnh nguy hiểm.
+đột quỵ cần cấp cứu ngay.
+nhồi máu cơ tim là cấp cứu tim mạch.
+gãy xương cần nẹp và nghỉ ngơi.
+bỏng cần làm mát bằng nước lạnh.
+vết thương cần băng bó và vệ sinh sạch sẽ.
+sốt cao cần hạ nhiệt và uống nhiều nước.
+tiêu chảy gây mất nước.
+táo bón gây khó chịu.
+dị ứng là phản ứng quá mức của cơ thể.
+hen suyễn ảnh hưởng đến hô hấp.
+cận thị cần đeo kính.
+viễn thị khó nhìn gần.
+điếc ảnh hưởng đến khả năng nghe.
+tự kỷ là rối loạn phát triển thần kinh.
+trầm cảm là bệnh tâm lý cần điều trị.
+lo âu là cảm giác bất an kéo dài.
+mất ngủ ảnh hưởng đến sức khỏe.
+đau đầu có nhiều nguyên nhân khác nhau.
