@@ -21,7 +21,7 @@ Explainability	100%	0%	0%
 Update Without Retrain	Yes	No	No
 
 Quick Start
-git clone https://github.com/[username]/neurosymbolic-vi
+git clone https://github.com/know15022001/neurosymbolic-vi
 cd neurosymbolic-vi
 pip install numpy psutil
 python benchmark_v3.py
