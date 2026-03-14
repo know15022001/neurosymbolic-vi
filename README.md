@@ -79,7 +79,7 @@ Citation
              A Graph-Based Approach to Knowledge Representation},
   author  = {Anonymous User and Claude (Anthropic)},
   year    = {2026},
-  url     = {https://github.com/[username]/neurosymbolic-vi}
+  url     = {https://github.com/know15022001/neurosymbolic-vi}
 }
 
 License
