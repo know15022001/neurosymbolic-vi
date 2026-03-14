@@ -12,7 +12,7 @@ import psutil
 from pathlib import Path
 from collections import defaultdict, Counter
 
-sys.path.insert(0, str(Path(__file__).parent))
+sys.path.insert(0, str(Path(__file__)))
 from core      import VocabGraph, KnowledgeDB, LearningEngine, InferenceEngine
 from baselines import NGramModel, TinyLSTM
 
