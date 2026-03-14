@@ -12,7 +12,7 @@ import psutil
 from pathlib import Path
 from collections import defaultdict, Counter
 
-sys.path.insert(0, str(Path(__file__)))
+sys.path.insert(0, str(Path(__file__).parent))
 from core      import VocabGraph, KnowledgeDB, LearningEngine, InferenceEngine
 from baselines import NGramModel, TinyLSTM
 
@@ -170,7 +170,7 @@ def run():
     print(f'  {len(TEST_QA)} test cases | keyword score + semantic overlap + unknown detection\n')
 
     # ── Corpus ─────────────────────────────────────
-    corpus_path = Path(__file__).parent.parent / 'data' / 'corpus_vi.txt'
+    corpus_path = Path(__file__).parent / 'data' / 'corpus_vi.txt'
     with open(corpus_path, encoding='utf-8') as f:
         sentences = [l.strip() for l in f if l.strip()]
     print(f'  Corpus: {len(sentences)} câu | vocab ước tính ~938 từ\n')
