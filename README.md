@@ -9,7 +9,7 @@
 A question-answering AI system that uses no matrix multiplication, no neural network, and no GPU. It learns from raw Vietnamese text, builds a knowledge graph automatically, and answers questions through ontological reasoning.
 If it does not know the answer, it says so. It never fabricates. Every answer comes with a full reasoning trace showing exactly how the conclusion was reached.
 
-Demo: https://colab.research.google.com/drive/1tZvIsRVQqBL-sW_xD6Wm86hu8E8M9jOe?usp=sharing
+[Demo](https://colab.research.google.com/drive/1tZvIsRVQqBL-sW_xD6Wm86hu8E8M9jOe?usp=sharing)
 
 ## Key Results
 | Metric |	This System |	N-Gram Baseline |	Tiny LSTM Baseline |
